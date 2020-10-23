@@ -1,0 +1,83 @@
+[
+    {
+        "question": "What astronomer suggested that the Sun was at the center of the solar system?",
+        "choice1": " Copernicus",
+        "choice2": " Hypatia",
+        "choice3": "Ptolemy",
+        "choice4": " Theon of Alexandria",
+        "answer": 1
+    },
+    {
+        "question": "The code name of the first vehicle driven by man on the moon's surface was",
+        "choice1": " Luna 22",
+        "choice2": "Rover",
+        "choice3": "Eagle",
+        "choice4": " Challenger",
+        "answer": 2
+    },
+    {
+        "question": "Which is the closest galaxy to Earth outside the Milky Way?",
+        "choice1": "Sombrero",
+        "choice2": "Andromeda",
+        "choice3": "Antennae",
+        "choice4": " NGC 2770",
+        "answer": 2
+    },
+    {
+        "question": "How many light-years across is the Milky Way?",
+        "choice1": "1000",
+        "choice2": " 10000",
+        "choice3": "100000",
+        "choice4": "1000000",
+        "answer": 3
+    },
+    {
+        "question": "About how many galaxies are there in the universe?",
+        "choice1": "25 million",
+        "choice2": "25 billion",
+        "choice3": "25 quadrillion",
+        "choice4": "25 gazillion",
+        "answer": 2
+    },
+    {
+        "question": "In what constellation is Sirius found?",
+        "choice1": "Canis Major",
+        "choice2": "Ursa Major",
+        "choice3": "Ursa Minor",
+        "choice4": "Andromeda",
+        "answer": 1
+    },
+    {
+        "question": "What is the coldest place in the universe?",
+        "choice1": "Magnetar",
+        "choice2": "Pluto",
+        "choice3": "Neptune",
+        "choice4": "Boomerang Nebula",
+        "answer": 4
+    },
+    {
+        "question": "What percent of the universe is dark matter?",
+        "choice1": "99%",
+        "choice2": "1%",
+        "choice3": "27%",
+        "choice4": "50%",
+        "answer": 3
+    },
+    {
+        "question": "What is the largest type of star in the universe?",
+        "choice1": "Red supergiant stars",
+        "choice2": "White dwarf star",
+        "choice3": "Neutron star",
+        "choice4": "Tauri Star",
+        "answer": 1
+    },
+    {
+        "question": "Name the heaviest object ever launched into space.",
+        "choice1": "Ariel, a satellite",
+        "choice2": "Salyut space station",
+        "choice3": "Luna, a spacecraft",
+        "choice4": "Skylab, a space station",
+        "answer": 4
+    }
+    
+]
